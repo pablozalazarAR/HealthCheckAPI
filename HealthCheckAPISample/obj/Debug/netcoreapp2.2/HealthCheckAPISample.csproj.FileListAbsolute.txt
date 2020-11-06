@@ -1,0 +1,16 @@
+M:\repos\GitHub\HealthCheckAPISample-master\HealthCheckAPI\HealthCheckAPISample\bin\Debug\netcoreapp2.2\appsettings.Development.json
+M:\repos\GitHub\HealthCheckAPISample-master\HealthCheckAPI\HealthCheckAPISample\bin\Debug\netcoreapp2.2\appsettings.json
+M:\repos\GitHub\HealthCheckAPISample-master\HealthCheckAPI\HealthCheckAPISample\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+M:\repos\GitHub\HealthCheckAPISample-master\HealthCheckAPI\HealthCheckAPISample\bin\Debug\netcoreapp2.2\HealthCheckAPISample.deps.json
+M:\repos\GitHub\HealthCheckAPISample-master\HealthCheckAPI\HealthCheckAPISample\bin\Debug\netcoreapp2.2\HealthCheckAPISample.runtimeconfig.json
+M:\repos\GitHub\HealthCheckAPISample-master\HealthCheckAPI\HealthCheckAPISample\bin\Debug\netcoreapp2.2\HealthCheckAPISample.runtimeconfig.dev.json
+M:\repos\GitHub\HealthCheckAPISample-master\HealthCheckAPI\HealthCheckAPISample\bin\Debug\netcoreapp2.2\HealthCheckAPISample.dll
+M:\repos\GitHub\HealthCheckAPISample-master\HealthCheckAPI\HealthCheckAPISample\bin\Debug\netcoreapp2.2\HealthCheckAPISample.pdb
+M:\repos\GitHub\HealthCheckAPISample-master\HealthCheckAPI\HealthCheckAPISample\obj\Debug\netcoreapp2.2\HealthCheckAPISample.csprojAssemblyReference.cache
+M:\repos\GitHub\HealthCheckAPISample-master\HealthCheckAPI\HealthCheckAPISample\obj\Debug\netcoreapp2.2\HealthCheckAPISample.RazorAssemblyInfo.cache
+M:\repos\GitHub\HealthCheckAPISample-master\HealthCheckAPI\HealthCheckAPISample\obj\Debug\netcoreapp2.2\HealthCheckAPISample.RazorAssemblyInfo.cs
+M:\repos\GitHub\HealthCheckAPISample-master\HealthCheckAPI\HealthCheckAPISample\obj\Debug\netcoreapp2.2\HealthCheckAPISample.AssemblyInfoInputs.cache
+M:\repos\GitHub\HealthCheckAPISample-master\HealthCheckAPI\HealthCheckAPISample\obj\Debug\netcoreapp2.2\HealthCheckAPISample.AssemblyInfo.cs
+M:\repos\GitHub\HealthCheckAPISample-master\HealthCheckAPI\HealthCheckAPISample\obj\Debug\netcoreapp2.2\HealthCheckAPISample.RazorTargetAssemblyInfo.cache
+M:\repos\GitHub\HealthCheckAPISample-master\HealthCheckAPI\HealthCheckAPISample\obj\Debug\netcoreapp2.2\HealthCheckAPISample.dll
+M:\repos\GitHub\HealthCheckAPISample-master\HealthCheckAPI\HealthCheckAPISample\obj\Debug\netcoreapp2.2\HealthCheckAPISample.pdb
